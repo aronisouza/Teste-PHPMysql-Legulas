@@ -10,7 +10,6 @@ require_once 'classe/bo/artigosBO.php';
 require_once 'classe/vo/artigosVO.php';
 
 if(!$_SESSION){
-    $_SESSION['userlogin'] = "Filid";
     $msgErro = $_SESSION['msgError'];
 }
 
