@@ -27,13 +27,3 @@ O que deve ser feito
     metodo Edit da classe artigosBO
 
     Delete extra
-
-Publicação
-
-    Pode ser feito um pull request ou
-    Um novo repositório publico seu nos enviando o link ou
-    Zip por e-mail curriculo@legulas.com.br com seu nome completo
-
-Bom Teste!!!
-Duvidas podem entrar em contato pelo whatts
-https://web.whatsapp.com/send?phone=5504130795203
