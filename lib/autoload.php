@@ -16,18 +16,6 @@ function autoload($ClassName)
 	}
 }
 
-// Apenas para verificar alguns arrays :: Uso para DEV
-function getPreA(array $string){
-    echo '<pre>';
-        print_r($string);
-    echo '</pre>';
-}
-
-function getPre($string){
-    echo '<pre>';
-		print_r($string);
-    echo '</pre>';
-}
 
 spl_autoload_register('autoload');
 ?>
